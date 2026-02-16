@@ -15,7 +15,7 @@ services:
       - key: FRONTEND_URL
         sync: false
       - key: PYTHON_VERSION
-        value: '3.13'
+        value: '3.13.11'
 
 databases:
   - name: khoury-cyber-guide-db
